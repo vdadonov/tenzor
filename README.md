@@ -1,11 +1,11 @@
 # tenzor
 
-## How It Run?
+## Для запуска
 ```
 docker build -t tenzor .
 docker run -it --rm -p 8080:80 tenzor
-http://localhost:8080/
 ```
+Проект будет доступен по ссылке http://localhost:8080/
 
 ## Project setup
 ```
